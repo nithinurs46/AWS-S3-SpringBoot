@@ -7,6 +7,7 @@ Goto My Security Credentials in AWS Console at top right corner to generate acce
 AWS-SDK dependency is used.
 
 Provide above generated keys in application.properties
+
 Provide bucket name and folder name in application.properties
 
 URLs - 
